@@ -15,10 +15,10 @@ class Solution {
                 if (l == nums.length - 1) {
                     i++;
                     l = i + 1;
-                }
-                else {
-                    l++;
-                }
+            }
+            else {
+                l++;
+            }
             }
         }
         return null;
